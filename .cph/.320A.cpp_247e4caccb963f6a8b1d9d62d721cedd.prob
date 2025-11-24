@@ -1,0 +1,1 @@
+{"name":"Local: 320A","url":"d:\\Career Vaulet\\Coding\\CP\\320A.cpp","tests":[{"id":1763953587400,"input":"114114\n","output":"\nYES"},{"id":1763953621445,"input":"1111","output":"YES"},{"id":1763953624587,"input":"441231\n","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Career Vaulet\\Coding\\CP\\320A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ABit++","url":"d:\\Career Vaulet\\Coding\\CP\\ABit++.cpp","tests":[{"id":1761643935627,"input":"1\n++X\n","output":"1\n"},{"id":1761643952540,"input":"2\nX++\n--X\n","output":"0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Career Vaulet\\Coding\\CP\\ABit++.cpp","group":"local","local":true}
