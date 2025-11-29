@@ -16,6 +16,5 @@ int main(){
             else if(s[i]!='0' && flag==true) ans++;
         }
         cout<<ans<<endl;
-        
     }
 }
